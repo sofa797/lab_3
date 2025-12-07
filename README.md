@@ -1,3 +1,12 @@
-# lab_3
+# lab_2
+# lab_2
 
-//test2
+
+## Operations
+* K-way merge
+* External aggregation
+
+## Caches
+* LRU 
+* LFU
+* Clock
